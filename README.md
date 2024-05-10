@@ -7,5 +7,7 @@ The app provides users with weather information for their location and other sel
 Uses Lotti Animations for better UI experience<br/>
 </h3>
 
-<p align="left"> <img src="images/SPEED1.jpeg" alt="janardankeny" width="400" height="850">
-<img src="images/SPEED2.jpeg" alt="janardankeny" width="400" height="850"></p>
+<p align="left"> <img src="images/weather1.jpeg" alt="janardankeny" width="400" height="850">
+<img src="images/weather2.jpeg" alt="janardankeny" width="400" height="850">
+<img src="images/weather3.jpeg" alt="janardankeny" width="400" height="850">
+<img src="images/weather4.jpeg" alt="janardankeny" width="400" height="850"></p>
